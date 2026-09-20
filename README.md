@@ -48,13 +48,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Llein-Dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Llein-Dev&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Llein-Dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Llein-Dev's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Llein-Dev&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top Languages" height="165" />
 
-<br/>
+<br/><br/>
 
 <!-- Snake animation eating github contribution graph -->
-![Snake animation](https://raw.githubusercontent.com/Llein-Dev/Llein-Dev/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Llein-Dev/Llein-Dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Llein-Dev/Llein-Dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Llein-Dev/Llein-Dev/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
