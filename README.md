@@ -6,7 +6,7 @@
 
 *Building high-performance desktop apps, robust web platforms, and intelligent computer vision solutions.*
 
-[🌐 Portfolio](https://demo.aptifolio.app) • [📧 Contact Me](mailto:your-email@example.com) • [💼 LinkedIn](https://linkedin.com/in/yourprofile)
+[🌐 Portfolio](https://portfolio.easyc.vn/) • [📧 Contact Me](mailto:vohuudat282224@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/dat-vo-huu-b232472bb)
 
 ---
 
