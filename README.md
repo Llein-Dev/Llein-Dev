@@ -48,8 +48,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Llein-Dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Llein-Dev's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Llein-Dev&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Llein-Dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Llein-Dev's GitHub Stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=Llein-Dev&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top Languages" height="165" />
 
 <br/><br/>
 
@@ -61,7 +61,6 @@
 </picture>
 
 </div>
-
 ---
 
 <p align="center">
