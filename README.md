@@ -1,11 +1,10 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1d4ed8,100:3b82f6&height=280&section=header&text=Just%20Lein&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%7C%20Systems%20%7C%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&descColor=bfdbfe&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,20,20&amp;height=220&amp;section=header&amp;text=Just%20Lein&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Computer%20Vision&amp;descAlignY=58&amp;descSize=16&amp;descColor=93C5FD&amp;animation=fadeIn&amp;fontAlign=50"
   width="100%"
-  alt="Just Lein"
+  alt="header"
 />
-
 # `Llein-Dev`
 
 ### Full-Stack & Systems Engineer
