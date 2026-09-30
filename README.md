@@ -54,11 +54,11 @@ I care about:
 
 **WEB & BACKEND**
 
-`Next.js` `React` `Node.js` `Express`
+`Next.js` `React` `Node.js` `Express` `Golang`
 
 **SYSTEMS**
 
-`Rust` `Tauri` `WebRTC` `WebCodecs`
+`Rust` `Tauri` `WebRTC` `WebCodecs` `Python`
 
 **AI / COMPUTER VISION**
 
