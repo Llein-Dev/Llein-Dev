@@ -384,11 +384,11 @@ Software exists to solve workflows.
 <div align="center">
 
 <a href="https://github.com/Llein-Dev">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Llein-Dev&show_icons=true&hide_border=true&bg_color=0f172a&title_color=10b981&icon_color=10b981&text_color=e2e8f0&ring_color=10b981&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Llein-Dev&show_icons=true&hide_border=true&bg_color=0f172a&title_color=10b981&icon_color=10b981&text_color=e2e8f0&ring_color=10b981&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/Llein-Dev">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llein-Dev&layout=compact&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0&langs_count=8" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Llein-Dev&layout=compact&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0&langs_count=8" />
 </a>
 
 <br /><br />
