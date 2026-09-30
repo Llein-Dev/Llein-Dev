@@ -1,61 +1,124 @@
 <div align="center">
 
-# Hi, I'm Dat (Llein-Dev) 👋
+# Đạt Võ
 
-### 🛠️ Full-Stack & Systems Engineer | AI / Computer Vision Enthusiast
+**Full-Stack & Systems Engineer**
 
-*Building high-performance desktop apps, robust web platforms, and intelligent computer vision solutions.*
+Building production systems across **Web · Desktop · AI · Computer Vision · Infrastructure**
 
-[🌐 Portfolio](https://portfolio.easyc.vn/) • [📧 Contact Me](mailto:vohuudat282224@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/dat-vo-huu-b232472bb)
-
----
-
-### 💻 Tech Stack & Ecosystem
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[Portfolio](https://portfolio.easyc.vn/) · [LinkedIn](https://www.linkedin.com/in/dat-vo-huu-b232472bb) · [Email](mailto:vohuudat282224@gmail.com)
 
 </div>
 
 ---
 
-### 🚀 What I'm Working On
+## About
 
-- 📷 **AI & Computer Vision**: License Plate Recognition (ANPR) systems using YOLO, OCR, and ONNX Runtime.
-- ⚡ **Systems & Desktop**: Desktop clients built with **Rust + Tauri**, integrating hardware controls & video players.
-- 🌐 **Web Architecture**: Full-stack platforms with Next.js, Express, MinIO S3 storage, and Nginx proxies.
-- 📡 **IoT & Protocols**: Hardware integration (ONVIF discovery, IP cameras, serial controllers).
+I'm a software engineer focused on building reliable, performance-oriented systems across the full stack.
 
----
+My current work sits at the intersection of:
 
-### 📌 Highlighted Projects
+* **Full-stack engineering** — Next.js, React, Node.js, PostgreSQL
+* **Systems & desktop** — Rust, Tauri, WebCodecs
+* **AI & computer vision** — YOLO, OCR, ONNX Runtime
+* **Infrastructure** — Docker, Nginx, MinIO, Linux
+* **Hardware & protocols** — ONVIF, IP cameras, serial communication
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🛡️ **ANPR Vision Core** | High-precision license plate recognition and real-time spatial tracking | `Rust` `YOLO` `ONNX` `SQLite` |
-| 📹 **VMS Desktop Client** | Lightweight Video Management System with WebCodecs hardware acceleration | `Tauri` `Rust` `React` `TypeScript` |
-| 📁 **TSI Vanthu Platform** | Enterprise document management system with S3 presigned URL storage | `Express` `Next.js` `MinIO` `PM2` |
+I care about **architecture, performance, maintainability, and real-world usability**.
 
 ---
 
-### 📊 GitHub Activity & Metrics
+## Core Stack
 
+**Languages**
 
-<!-- Snake animation eating github contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Llein-Dev/Llein-Dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Llein-Dev/Llein-Dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Llein-Dev/Llein-Dev/output/github-contribution-grid-snake.svg">
-</picture>
+`Rust` `TypeScript` `JavaScript` `Python` `Go` `SQL`
+
+**Backend & Web**
+
+`Node.js` `Express` `Next.js` `React` `PostgreSQL`
+
+**AI / Computer Vision**
+
+`YOLO` `OCR` `ONNX Runtime` `OpenCV`
+
+**Systems & Infrastructure**
+
+`Tauri` `Docker` `Nginx` `MinIO` `Linux`
+
+**Protocols & Hardware**
+
+`ONVIF` `WebRTC` `RTSP` `S3` `Serial`
+
+---
+
+## Selected Work
+
+### ANPR Vision Core
+
+Real-time automatic license plate recognition and vehicle tracking system.
+
+* YOLO-based vehicle and plate detection
+* OCR pipeline for license plate recognition
+* Real-time spatial tracking
+* ONNX Runtime inference
+* Rust-based processing pipeline
+
+`Rust` `YOLO` `ONNX Runtime` `OCR` `SQLite`
+
+---
+
+### VMS Desktop Client
+
+Desktop video management system designed for multi-camera monitoring and hardware integration.
+
+* Rust + Tauri desktop architecture
+* WebRTC / RTSP video pipelines
+* WebCodecs-based playback
+* ONVIF camera discovery and control
+* PTZ and multi-camera workflows
+
+`Rust` `Tauri` `React` `TypeScript` `WebRTC` `ONVIF`
+
+---
+
+### TSI Vanthu
+
+Enterprise document and file management platform built around S3-compatible object storage.
+
+* Presigned URL-based file uploads
+* S3-compatible storage with MinIO
+* Next.js frontend
+* Express backend
+* Nginx reverse proxy architecture
+
+`Next.js` `Express` `PostgreSQL` `MinIO` `Docker`
+
+---
+
+## Engineering Focus
+
+```text
+Software Architecture
+├── Full-Stack Applications
+├── Distributed Systems
+├── AI / Computer Vision
+├── Desktop & Systems Programming
+├── Infrastructure & Self-Hosting
+└── Hardware / Network Integration
+```
+
+---
+
+## GitHub
+
+[![GitHub followers](https://img.shields.io/github/followers/Llein-Dev?style=flat\&label=Followers)](https://github.com/Llein-Dev)
+[![GitHub stars](https://img.shields.io/github/stars/Llein-Dev?style=flat\&label=Stars)](https://github.com/Llein-Dev)
+
+---
+
+<div align="center">
+
+**Building systems that are fast, maintainable, and useful.**
 
 </div>
-
-<p align="center">
-  <i>"Code with purpose, build for performance."</i>
-</p>
