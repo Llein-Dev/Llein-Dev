@@ -254,58 +254,66 @@ A parking system combining computer vision, license plate recognition, cameras a
 <table width="100%">
 <tr>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### WEB
+<h3>WEB</h3>
 
-**Applications**
+<b>Applications</b>
 
-Next.js  
-React  
-Node.js  
-Express  
+<br><br>
+
+Next.js<br>
+React<br>
+Node.js<br>
+Express<br>
 PostgreSQL
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### SYSTEMS
+<h3>SYSTEMS</h3>
 
-**Desktop**
+<b>Desktop</b>
 
-Rust  
-Tauri  
-WebRTC  
-WebCodecs  
+<br><br>
+
+Rust<br>
+Tauri<br>
+WebRTC<br>
+WebCodecs<br>
 Video
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### AI / CV
+<h3>AI / CV</h3>
 
-**Intelligence**
+<b>Intelligence</b>
 
-YOLO  
-OCR  
-ONNX  
-Tracking  
+<br><br>
+
+YOLO<br>
+OCR<br>
+ONNX<br>
+Tracking<br>
 ANPR
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### INFRA
+<h3>INFRA</h3>
 
-**Operations**
+<b>Operations</b>
 
-Docker  
-Linux  
-Nginx  
-MinIO  
+<br><br>
+
+Docker<br>
+Linux<br>
+Nginx<br>
+MinIO<br>
 Networking
 
 </td>
