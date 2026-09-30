@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:064e3b,100:10b981&height=220&section=header&text=Just%20Lein&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%7C%20Systems%20%7C%20AI%20%7C%20Computer%20Vision&descAlignY=59&descSize=17&descColor=d1fae5&animation=fadeIn" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1d4ed8,100:3b82f6&height=280&section=header&text=Just%20Lein&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%7C%20Systems%20%7C%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&descColor=bfdbfe&animation=fadeIn"
+  width="100%"
+  alt="Just Lein"
+/>
 
 # `Llein-Dev`
 
