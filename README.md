@@ -133,7 +133,7 @@ I care about:
 
 # `03` — Selected Systems
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -251,7 +251,7 @@ A parking system combining computer vision, license plate recognition, cameras a
 
 # `04` — What I Build
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="25%" align="center">
@@ -317,7 +317,7 @@ Networking
 
 # `05` — Engineering Principles
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
