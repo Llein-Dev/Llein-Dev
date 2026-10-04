@@ -18,6 +18,10 @@ Building production software across **Web, Desktop, AI, Computer Vision, Infrast
   <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
+<a href="https://www.npmjs.com/~llein">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/dat-vo-huu-b232472bb">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
